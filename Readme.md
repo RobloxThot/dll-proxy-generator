@@ -32,3 +32,4 @@ Change the following settings.
 ### Use the new dll
 
 Copy your new proxy inside the game directory. Some games have a different load mechanism. Depending on which dll you generated it could be possible that the game does not load your dll first in which case the proxy doesn't work.
+
